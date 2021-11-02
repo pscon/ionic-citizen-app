@@ -1,0 +1,7 @@
+{
+  "name": "citizenfire",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
